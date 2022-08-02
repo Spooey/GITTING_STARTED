@@ -1,1 +1,2 @@
 # GITTING_STARTED
+learning GIT
